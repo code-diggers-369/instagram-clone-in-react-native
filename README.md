@@ -5,4 +5,4 @@ Instagram clone maked in react native with firebase as realtime database in this
 
 Home
 
-![GitHub Logo](/screen shot/home.png)
+![GitHub Logo](/pic/home.png)
