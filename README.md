@@ -6,13 +6,3 @@ Instagram clone maked in react native with firebase as realtime database in this
 Home
 
 ![GitHub Logo](/screen shot/home.png)
-
-
-Upload
-
-![GitHub Logo](/screen shot/upload.png)
-
-
-Profile
-
-![GitHub Logo](/screen shot/profile.png)
